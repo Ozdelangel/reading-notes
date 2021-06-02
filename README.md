@@ -17,4 +17,8 @@ always trying to put forth your best _effort_ and in the long run it will pay of
 - My family
 - Perseverance
 
+### About me 
+
+I currently live in portland, OR with my wife and daughter. Most of my life I worked in blue collar trades and not really finding a fit. I recently got a huge opportunity to change things around and I chose a path in learning to code. I hope to learn a lot and hopefully do this as career one day.
+
 
