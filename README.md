@@ -11,7 +11,7 @@ _Going to work when you really don't want to and_
 always trying to put forth your best _effort_ and in the long run it will pay off.
 
 
-### Three things I will remember the Growth Mindset
+### Three things I will use to remember Growth Mindset
 
 - My goals as a student
 - My family
