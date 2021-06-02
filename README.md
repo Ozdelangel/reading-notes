@@ -1,25 +1,25 @@
 ## Growth Mindset in my own words
 
-### Above all perservernce
+### Above all perseverance
 
-### Markdown
+**Knowing there is no challenge too big-** Dont't run from challenges but recognize when you are and think about Growth Mindset as written by Steve Haffenden
+>So, lately, I try to recognize that avoidance, take a step back, and think about the growth mindset.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+_Going to work when you really don't want to and_
+always trying to put forth your best _effort_ and in the long run it will pay off.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Three things I will remember the Growth Mindset
 
-**Bold** and _Italic_ and `Code` text
+- My goals as a student
+- My family
+- Perseverance
+
+
+
+
 
 [Link](url) and ![Image](src)
 ```
