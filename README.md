@@ -13,6 +13,8 @@ Hello, welcome to *the* source for my notes in code 102
 
 [HTML & Wireframing ](htmlnotes.md)
 
+[CSS Notes](cssnotes.md)
+
 
 
 
