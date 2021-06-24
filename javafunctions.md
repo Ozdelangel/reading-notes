@@ -1,9 +1,12 @@
 # Functions
 A `function` is something that takes a input and gives you something in return.
 
-> for example: `function getuserAnswer(){
+# for example:
+ `function getuserAnswer(){
     let userAnswer = prompt('DO you like MMA?:')
     console.log(userAnswer);`
+    
+    
     
     the function is to get the answer for "do you like MMA". At the end you will have to log it to make it function using `console.log` 
 
@@ -15,4 +18,3 @@ A `function` is something that takes a input and gives you something in return.
     * multiplies
     / divides
     += adds value to a variable or a string
-    
