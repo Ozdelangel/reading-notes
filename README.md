@@ -18,7 +18,7 @@ Hello, welcome to *the* source for my notes in code 102
 
 [JavaScript notes](jsnotes.md)
 
-[JavaScript Funtctions](javafunctions.md)
+[JavaScript Functions](javafunctions.md)
 
 
 
