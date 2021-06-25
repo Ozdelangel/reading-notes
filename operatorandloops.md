@@ -44,7 +44,7 @@ or simply put "double equal sign" compares whatever is to the right and left of 
 
 for example: 
 
-`function getuserAnswer(){
+    function getuserAnswer(){
     let userAnswer = prompt('DO you like MMA?:')
     console.log(userAnswer);
     
@@ -52,5 +52,8 @@ for example:
         document.write('<h3>Welcome ' + user1 +'</h3>') ;
     } else {
         document.write('<h3>' + user1 +' , you should try it out</h3>');
-    }`
+    }
+
+
+
 in the example its going to compare whatever the users answer is to my question if its a "yes" it spits out a welcome message. if it is something else it will spit out the message try it out. if they answer no for example, the comparison of yes is FALSE.
