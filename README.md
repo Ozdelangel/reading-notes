@@ -26,5 +26,7 @@ Hello, welcome to *the* source for my notes in code 102
 # Code 201 Notes
 *In this section you will find all my notes for Code 201!* **below is a table of contents**
 
+[ introduction to html and javascript notes](class-01.md)
+
 
 About me: My name is Osborn Del Angel I am student at Code Fellows/ aspiring software developer and I currently reside in Portland, OR. 
