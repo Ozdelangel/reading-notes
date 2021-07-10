@@ -1,5 +1,5 @@
 # reading-notes
-Hello, welcome to *the* source for my notes in code 102
+Hello, welcome to *the* source for my notes in code 102 
 # TABLE OF CONTENTS
 
 [Growth Mindset](growthmindset.md)
@@ -22,6 +22,9 @@ Hello, welcome to *the* source for my notes in code 102
 
 [Operators and loops](operatorandloops.md)
 
+
+# Code 201 Notes
+*In this section you will find all my notes for Code 201!* **below is a table of contents**
 
 
 About me: My name is Osborn Del Angel I am student at Code Fellows/ aspiring software developer and I currently reside in Portland, OR. 
