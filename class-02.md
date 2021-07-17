@@ -39,3 +39,14 @@ How to declare a variable
 
 `userName` `=` oz1
  then you can give it a value using a `=`
+
+ # Terminal commands
+ git pull origin main
+ - pulls updates from the main branch in repo
+
+
+ cp (enter path here) .
+ - cp stands for copy paste
+- the path is where the file you want is at
+- always remember the dot at the end 
+- be in the repo you want to bring stuff into while running the copy paste command
