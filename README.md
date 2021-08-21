@@ -51,4 +51,7 @@ Hello, welcome to *the* source for my notes in code 102
 
 [Chart.js and canvas](class-12.md)
 
+[Local Storage](class-13.md)
+
+
 About me: My name is Osborn Del Angel I am student at Code Fellows/ aspiring software developer and I currently reside in Portland, OR. 
