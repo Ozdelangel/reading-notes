@@ -59,5 +59,7 @@ Hello, welcome to *the* source for my notes in code 102
 
 [Components and Props](class-01-301.md)
 
+[States and Props](class-02-301.md)
+
 
 About me: My name is Osborn Del Angel I am student at Code Fellows/ aspiring software developer and I currently reside in Portland, OR. 
