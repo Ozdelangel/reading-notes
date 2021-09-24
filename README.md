@@ -1,5 +1,5 @@
 # reading-notes
-Hello, welcome to *the* source for my notes in code 102 
+# Code 102 - Intro to Software Development
 # TABLE OF CONTENTS
 
 [Growth Mindset](growthmindset.md)
@@ -23,7 +23,7 @@ Hello, welcome to *the* source for my notes in code 102
 [Operators and loops](operatorandloops.md)
 
 
-# Code 201 Notes
+# Code 201 - Foundations of Software Development
 *In this section you will find all my notes for Code 201!* **below is a table of contents**
 
 [ introduction to html and javascript notes](class-01.md)
@@ -55,11 +55,14 @@ Hello, welcome to *the* source for my notes in code 102
 
 [CSS Animations and what we learned about bulding teams from google](class-14a-14b.md)
 
-# Code 301 Reading Notes
+# Code 301 - Intermediate Software Development
 
 [Components and Props](class-01-301.md)
 
 [States and Props](class-02-301.md)
 
 
+
+
+# Code 401 - Advanced Software Development
 About me: My name is Osborn Del Angel I am student at Code Fellows/ aspiring software developer and I currently reside in Portland, OR. 
