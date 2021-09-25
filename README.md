@@ -61,6 +61,8 @@
 
 [States and Props](class-02-301.md)
 
+[Passing Functions as Props](class-03-301.md)
+
 
 
 
