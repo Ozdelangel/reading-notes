@@ -63,6 +63,7 @@
 
 [Passing Functions as Props](class-03-301.md)
 
+[forms and ternary](class-03-301.md)
 
 
 
