@@ -65,6 +65,8 @@
 
 [forms and ternary](class-03-301.md)
 
+[thinking in react and higher order functions](class-05-301.md)
+
 
 
 # Code 401 - Advanced Software Development
