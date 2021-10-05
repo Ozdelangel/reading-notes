@@ -67,6 +67,8 @@
 
 [thinking in react and higher order functions](class-05-301.md)
 
+[Node Js and Pair Programming](class-06-301.md)
+
 
 
 # Code 401 - Advanced Software Development
