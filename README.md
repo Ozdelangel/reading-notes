@@ -69,6 +69,8 @@
 
 [Node Js and Pair Programming](class-06-301.md)
 
+[Restful Verbs and Info about API's](class-07-301.md)
+
 
 
 # Code 401 - Advanced Software Development
