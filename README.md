@@ -71,6 +71,9 @@
 
 [Restful Verbs and Info about API's](class-07-301.md)
 
+[API best practices](class-08-301.md)
+
+
 
 
 # Code 401 - Advanced Software Development
