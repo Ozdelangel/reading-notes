@@ -73,6 +73,10 @@
 
 [API best practices](class-08-301.md)
 
+[Functional Programming](class-09-301.md)
+
+[API best practices](class-10-301.md)
+
 
 
 
