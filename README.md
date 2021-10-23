@@ -75,7 +75,9 @@
 
 [Functional Programming](class-09-301.md)
 
-[API best practices](class-10-301.md)
+[In memory storing](class-10-301.md)
+
+[nosql vs sql](class-11-301.md)
 
 
 
