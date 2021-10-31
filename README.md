@@ -79,6 +79,9 @@
 
 [nosql vs sql](class-11-301.md)
 
+[Status Codes And Video](class-12-301.md)
+
+[nosql vs sql](class-13-301.md)
 
 
 
